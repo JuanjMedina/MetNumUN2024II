@@ -8,7 +8,8 @@ Este repositorio contiene prácticas y laboratorios de la clase de **Métodos Nu
 ## Archivos
 
 - [LICENSE.md](LICENSE.md): Información sobre la licencia de uso de este repositorio.
-- [Lab 2 - JuanMedinaGuerrero_Lab2.ipynb](Lab%202/JuanMedinaGuerrero_Lab2.ipynb): Cuaderno de Jupyter correspondiente al segundo laboratorio de la clase. En este laboratorio se implementan métodos numéricos específicos como parte del aprendizaje.
+- **LABORATORIOS** 
+  - [Lab 2 - JuanMedinaGuerrero_Lab2.ipynb](Lab%202/JuanMedinaGuerrero_Lab2.ipynb): Cuaderno de Jupyter correspondiente al segundo laboratorio de la clase. En este laboratorio se implementan métodos numéricos específicos como parte del aprendizaje.
 
 ## Uso
 
