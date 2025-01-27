@@ -16,7 +16,7 @@ Este repositorio contiene prácticas y laboratorios de la clase de **Métodos Nu
   - [Quiz 1 - JuanMedinaGuerrero_Quiz1.ipynb](Quiz%201/Juan_Jose_Medina_Guerrero_Quiz1.ipynb): Cuaderno de Jupyter correspondiente al primer quiz de la clase.
   - [Quiz 2 - JuanMedinaGuerrero_Quiz2.ipynb](Quiz%202/Juan_Jose_Medina_Guerrero_Quiz2.ipynb): Cuaderno de Jupyter correspondiente al segundo quiz de la clase.
   - [Quiz 3 - JuanMedinaGuerrero_Quiz3.ipynb](Quiz%203/Juan_Jose_Medina_Guerrero_Quiz3.ipynb): Cuaderno de Jupyter correspondiente al tercer quiz de la clase.
-  - [Quiz 4 - JuanMedinaGuerrero_Quiz4.ipynb](Quiz%20Po-ShenLoh/week_1_quadratic_Po_Shen_Loh.ipynb): Cuaderno de Jupyter correspondiente al cuarto quiz de la clase.
+  - [Quiz 4 Po Shen Loh - JuanMedinaGuerrero_Quiz4.ipynb](Quiz%20Po-ShenLoh/week_1_quadratic_Po_Shen_Loh.ipynb): Cuaderno de Jupyter correspondiente al cuarto quiz de la clase.
   
 ## Uso
 
