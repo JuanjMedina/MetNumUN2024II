@@ -11,6 +11,7 @@ Este repositorio contiene prácticas y laboratorios de la clase de **Métodos Nu
 - **LABORATORIOS** 
   - [Lab 2 - JuanMedinaGuerrero_Lab2.ipynb](Lab%202/JuanMedinaGuerrero_Lab2.ipynb): Cuaderno de Jupyter correspondiente al segundo laboratorio de la clase.
   - [Lab 4 - JuanMedinaGuerrero_Quiz4.ipynb](Lab%204/Juan_Jose_Medina_Guerrero_lab4.ipynb): Cuaderno de Jupyter correspondiente al cuarto quiz de la clase.
+  - [Lab 3 - JuanMedinaGuerrero_Quiz5.ipynb](Lab%203/JuanMedina_ArithmeticSeriesGeometricSeriesPowerSums.ipynb): Cuaderno de Jupyter correspondiente al quinto quiz de la clase.
 
 - **Quices** 
   - [Quiz 1 - JuanMedinaGuerrero_Quiz1.ipynb](Quiz%201/Juan_Jose_Medina_Guerrero_Quiz1.ipynb): Cuaderno de Jupyter correspondiente al primer quiz de la clase.
