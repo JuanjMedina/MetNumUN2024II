@@ -20,6 +20,10 @@ Este laboratorio tiene la finalidad de predecir el precio de las acciones de una
 - variables : I change the variables to the ones that I think are more relevant.
   ![alt text](variables-image.png)
 
+
+- targets : i change the targets to the simulate using the actually price of the stock.
+  ![alt text](targets.png)
+
 - Model : XGBRegressor
 - 
   ![alt text](image-4.png)
